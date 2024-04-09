@@ -19,7 +19,7 @@
 #### Encontrei na tecnologia desafios adrenalizantes, como um apaixonado por esportes radicais estou fisurado nesse universo. Meu foco é ser um front-end que usa a programação para tornar a vida das pessoas mais fácil e prazerosa.
 
 #### Contatos:
-- ##### Email: arymanreis@gmail.com
-- ##### Whatsapp: 21 98642-6569 
+- Email: arymanreis@gmail.com
+- Whatsapp: 21 98642-6569 
 
 
