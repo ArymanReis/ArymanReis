@@ -40,12 +40,6 @@ Aqui você encontrará códigos, insights e projetos do universo de **Análise d
 
 ---
 
-## 🌐 **Contribuições e Estatísticas**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArymanReis&show_icons=true&theme=radical)  
-
----
-
 ## 📬 **Entre em Contato**  
 - **Email:** arymanreis@gmail.com  
 - **WhatsApp:** [21 98642-6569](https://wa.me/5521986426569)  
