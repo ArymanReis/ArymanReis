@@ -1,4 +1,4 @@
-# 🌊 Aloha! Seja bem-vindo! Eu sou Aryman Reis.  
+# Fala, Diretoria! 🚀 Seja bem vindo. 
 
 Aqui você encontrará códigos, insights e projetos do universo de **Análise de Dados**, **Business Intelligence** e muito mais. Meu objetivo é contribuir com a comunidade e compartilhar conhecimento para crescermos juntos!  
 
