@@ -14,9 +14,3 @@ MySQL | JavaScript | TypeScript | React
 📬 Contato
 
 📧 arymanreis@gmail.com
-
-💬 WhatsApp
-
-🔗 LinkedIn
-
-🎨 Behance
