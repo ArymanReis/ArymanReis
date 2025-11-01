@@ -42,6 +42,7 @@ Meu propósito é compartilhar conhecimento e inspirar outros profissionais a tr
 ## 📫 Contatos e Redes
 
 - 📧 **E-mail:** [arymanreis@gmail.com](mailto:arymanreis@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/arymanreis](https://www.linkedin.com/in/arymanreis/)  
-- 💻 **GitHub:** [github.com/ArymanReis](https://github.com/ArymanReis)
+- 💼 **LinkedIn:** [linkedin.com/in/arymanreis](https://www.linkedin.com/in/arymanreis/)
+- 💻 **HackerRank:** [hackerrank.com/profile/arymanreis](https://www.hackerrank.com/profile/arymanreis)  
+
 
