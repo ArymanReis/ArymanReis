@@ -22,7 +22,7 @@
         Não sou apenas um analista que gera gráficos; sou o profissional que resolve o problema quando a operação trava.
       </p>
       <p>
-        Minha trajetória é definida pela <strong>resolução de cenários de alta complexidade</strong>. Na Localiza, atuo hoje como a "última barreira" técnica e operacional: quando processos falham e carros supercríticos travam, eu e meu time desenhamos soluções baseadas em dados, criatividade e muito relacionamento interpessoal para gerir comflitos.
+        Minha trajetória é definida pela <strong>resolução de cenários de alta complexidade</strong>. Na Localiza, atuo hoje como a "última barreira" técnica e operacional: quando processos falham e carros supercríticos travam, eu e meu time desenhamos soluções baseadas em dados, criatividade e muito relacionamento interpessoal para gerir conflitos.
       </p>
       <p>
         Combinei essa vivência de "trincheira" com minha formação em <strong>Engenharia da Computação</strong> para criar soluções que geram eficiência real.
@@ -40,7 +40,7 @@
     <td width="40%" align="center">
       <h3>📚 Autor do Livro</h3>
       <p><strong>SQL Além do Certificado</strong></p>
-      <img src="assets/ebook_sql_mysql.jpg" width="200" alt="Capa do Livro SQL Além do Certificado">
+      <img src="assets/livro_ebook_sql_mysql.jpg" width="200" alt="Capa do Livro SQL Além do Certificado">
       <p><em>Focado em autonomia real em bancos de dados (377 págs).</em></p>
       <a href="https://www.amazon.com.br/dp/B0GGCG2Q1W">
         <img src="https://img.shields.io/badge/Ver_na_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white">
@@ -65,7 +65,7 @@ Aqui estão algumas das soluções que desenvolvi para resolver problemas de neg
 
 ### 1. [strategic-coffee-forecast]
 > *Ferramentas: Python, Pandas, Matplotlib*
-* **O Problema:** (Este projeto foi desenvolvido para responder a uma pergunta de 1 milhão de reais: "Como usar dados históricos para prever a melhor janela de compra e mitigar riscos de mercado?")
+* **O Problema:** Este projeto foi desenvolvido para responder a uma pergunta de 1 milhão de reais: "Como usar dados históricos para prever a melhor janela de compra e mitigar riscos de mercado?"
 * **A Solução:** Análise preditiva para identificar tendências de preço no mercado de café.
 * [🔗 Acessar Repositório](https://github.com/ArymanReis/strategic-coffee-forecast)
 
