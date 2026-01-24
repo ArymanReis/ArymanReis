@@ -1,48 +1,82 @@
-# 👋 Seja bem-vindo, Diretoria!
-
-“Aqui vou compartilhar minhas análises de negócios e também vou contribuir para você que está começando, compartilhando materiais de apoio aos seus estudos — que vão te ajudar a se tornar um profissional de dados raro.”
-
----
-
-## 🧠 Sobre mim
-
-Sou **Analista de Dados** com foco em **Business Intelligence (BI)**, **Python**, **SQL** e **Power BI**.  
-Minha missão é transformar dados em decisões inteligentes, aplicando técnicas de modelagem, visualização e estatística para gerar valor real para os negócios.
-
-Tenho experiência em ambientes desafiadores, liderança de equipes e otimização de processos através de indicadores e análises exploratórias (EDA).  
-Meu propósito é compartilhar conhecimento e inspirar outros profissionais a trilharem o caminho dos dados com propósito e consistência.
-
----
-
-## 💪 Hard Skills — Área de Dados
-
-### 🧰 Linguagens e Ferramentas
-- **Linguagens:** Python | SQL | DAX | JavaScript (básico)  
-- **Ambientes:** Jupyter Notebook | VS Code | Power BI | Excel Avançado  
-- **Versionamento:** Git & GitHub  
-- **Banco de Dados:** MySQL | SQLite | SQL Server  
-
-### 📦 Bibliotecas e Tecnologias
-- **Manipulação e Análise de Dados:** Pandas | NumPy | Polars  
-- **Visualização de Dados:** Matplotlib | Seaborn | Plotly | Power BI    
-- **Outras Ferramentas:** Excel BI | Power Query  
+<div align="center">
+  <h1>Olá, eu sou Aryman Reis 👋</h1>
+  <h3>Analista de Dados & Autor | Especialista em Eficiência Operacional</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/arymanreis">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:arymanreis@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🧩 Soft Skills — Essenciais na Análise de Dados
+<table>
+  <tr>
+    <td width="60%">
+      <h2>🚀 Sobre Mim</h2>
+      <p>
+        Não sou apenas um analista que gera gráficos; sou o profissional que resolve o problema quando a operação trava.
+      </p>
+      <p>
+        Minha trajetória é definida pela <strong>resolução de cenários de alta complexidade</strong>. Na Localiza, atuo hoje como a "última barreira" técnica e operacional: quando processos falham e carros supercríticos travam, eu e meu time desenhamos soluções baseadas em dados, criatividade e muito relacionamento interpessoal para gerir comflitos.
+      </p>
+      <p>
+        Combinei essa vivência de "trincheira" com minha formação em <strong>Engenharia da Computação</strong> para criar soluções que geram eficiência real.
+      </p>
+      <br>
+      <h3>🛠 Tech Stack & Ferramentas</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Analytics-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+        <img src="https://img.shields.io/badge/Tools-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+        <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <h3>📚 Autor do Livro</h3>
+      <p><strong>SQL Além do Certificado</strong></p>
+      <img src="assets/ebook_sql_mysql.jpg" width="200" alt="Capa do Livro SQL Além do Certificado">
+      <p><em>Focado em autonomia real em bancos de dados (377 págs).</em></p>
+      <a href="https://www.amazon.com.br/dp/B0GGCG2Q1W">
+        <img src="https://img.shields.io/badge/Ver_na_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
-- Raciocínio analítico e visão estratégica  
-- Comunicação clara e didática  
-- Capacidade de liderança e trabalho em equipe  
-- Foco em resultados e melhoria contínua  
-- Adaptabilidade e aprendizado constante  
+## 🏆 Diferenciais de Carreira
+
+| Área | Impacto Real |
+| :--- | :--- |
+| **A "Última Barreira"** | Gestão de conflitos e resolução de **carros supercríticos** que ninguém mais conseguiu resolver. |
+| **Eficiência** | Redução de **50% no tempo de produção** de veículos complexos através de análise técnica. |
+| **Visão de Dono** | Vivência no empreendedorismo. Sei que o código precisa gerar lucro ou economia, não apenas rodar. |
 
 ---
 
-## 📫 Contatos e Redes
+## 💻 Projetos em Destaque
 
-- 📧 **E-mail:** [arymanreis@gmail.com](mailto:arymanreis@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/arymanreis](https://www.linkedin.com/in/arymanreis/)
-- 💻 **HackerRank:** [hackerrank.com/profile/arymanreis](https://www.hackerrank.com/profile/arymanreis)  
+Aqui estão algumas das soluções que desenvolvi para resolver problemas de negócio:
 
+### 1. [strategic-coffee-forecast]
+> *Ferramentas: Python, Pandas, Matplotlib*
+* **O Problema:** (Este projeto foi desenvolvido para responder a uma pergunta de 1 milhão de reais: "Como usar dados históricos para prever a melhor janela de compra e mitigar riscos de mercado?")
+* **A Solução:** Análise preditiva para identificar tendências de preço no mercado de café.
+* [🔗 Acessar Repositório](https://github.com/ArymanReis/strategic-coffee-forecast)
 
+### 2. [lab-ebook-sql-mysql]
+> *Ferramentas: SQL, MySQL*
+* **O Problema:** Falta de material prático para cenários reais de banco de dados.
+* **A Solução:** Repositório com os exercícios práticos e scripts utilizados no meu livro.
+* [🔗 Acessar Repositório](https://github.com/ArymanReis/lab-ebook-sql-mysql)
+
+---
+
+<div align="center">
+  <small>Desenvolvido por Aryman Reis © 2026</small>
+</div>
